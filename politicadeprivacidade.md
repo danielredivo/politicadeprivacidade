@@ -1,6 +1,3 @@
-Aqui está o texto formatado em Markdown (.md) para que você possa colocar no seu repositório Git:
-
-```md
 # Política de Privacidade - Mente Ativa
 
 ## 1. Introdução
@@ -13,36 +10,36 @@ Esta Política de Privacidade está em conformidade com a Lei Geral de Proteçã
 
 O Mente Ativa pode coletar as seguintes informações:
 
-- **Informações Pessoais**: Como nome, endereço de e-mail, e outros dados que você fornecer ao se registrar ou criar uma conta.
-- **Informações de Uso**: Informações sobre como você utiliza o aplicativo, incluindo dados sobre o seu dispositivo, interações com as funcionalidades do app, preferências e configurações.
-- **Dados de Localização**: Se o app tiver funcionalidades de localização, podemos coletar informações sobre sua localização geográfica, com a sua permissão.
-- **Informações de Comunicação**: Mensagens enviadas, interações com suporte, ou qualquer tipo de comunicação através do aplicativo.
+- Informações Pessoais: Como nome, endereço de e-mail, e outros dados que você fornecer ao se registrar ou criar uma conta.
+- Informações de Uso: Informações sobre como você utiliza o aplicativo, incluindo dados sobre o seu dispositivo, interações com as funcionalidades do app, preferências e configurações.
+- Dados de Localização: Se o app tiver funcionalidades de localização, podemos coletar informações sobre sua localização geográfica, com a sua permissão.
+- Informações de Comunicação: Mensagens enviadas, interações com suporte, ou qualquer tipo de comunicação através do aplicativo.
 
 ## 3. Como Usamos suas Informações
 
 Utilizamos as informações coletadas para os seguintes fins:
 
-- **Melhorar a experiência do usuário**: Para fornecer uma experiência personalizada e aprimorar as funcionalidades do aplicativo.
-- **Comunicação**: Para enviar notificações, atualizações e responder a perguntas ou solicitações.
-- **Análises**: Para entender como os usuários interagem com o app e melhorar os nossos serviços (isso pode incluir o uso de ferramentas de análise como o Google Analytics ou Firebase).
-- **Segurança e Suporte**: Para monitorar e proteger a segurança do app, detectar fraudes ou abuso, e fornecer suporte ao cliente.
+- Melhorar a experiência do usuário: Para fornecer uma experiência personalizada e aprimorar as funcionalidades do aplicativo.
+- Comunicação: Para enviar notificações, atualizações e responder a perguntas ou solicitações.
+- Análises: Para entender como os usuários interagem com o app e melhorar os nossos serviços (isso pode incluir o uso de ferramentas de análise como o Google Analytics ou Firebase).
+- Segurança e Suporte: Para monitorar e proteger a segurança do app, detectar fraudes ou abuso, e fornecer suporte ao cliente.
 
 ## 4. Base Legal para o Tratamento de Dados
 
 De acordo com a LGPD e o GDPR, é necessário informar as bases legais que autorizam o tratamento dos seus dados pessoais. Abaixo estão as bases legais que se aplicam ao Mente Ativa:
 
-- **Consentimento**: Ao utilizar o aplicativo, você consente com o tratamento de seus dados pessoais conforme descrito nesta Política de Privacidade. Esse consentimento pode ser revogado a qualquer momento.
-- **Execução de Contrato**: O tratamento dos dados pode ser necessário para a execução de um contrato com o usuário, como, por exemplo, o fornecimento de funcionalidades do aplicativo.
-- **Obrigações Legais**: Podemos processar seus dados pessoais quando necessário para cumprir com obrigações legais.
-- **Interesses Legítimos**: Podemos processar dados pessoais com base em nossos interesses legítimos, como melhorar a segurança e desempenho do aplicativo.
+- Consentimento: Ao utilizar o aplicativo, você consente com o tratamento de seus dados pessoais conforme descrito nesta Política de Privacidade. Esse consentimento pode ser revogado a qualquer momento.
+- Execução de Contrato: O tratamento dos dados pode ser necessário para a execução de um contrato com o usuário, como, por exemplo, o fornecimento de funcionalidades do aplicativo.
+- Obrigações Legais: Podemos processar seus dados pessoais quando necessário para cumprir com obrigações legais.
+- Interesses Legítimos: Podemos processar dados pessoais com base em nossos interesses legítimos, como melhorar a segurança e desempenho do aplicativo.
 
 ## 5. Compartilhamento de Informações
 
 Não vendemos ou alugamos suas informações pessoais. Podemos compartilhar informações com terceiros nas seguintes circunstâncias:
 
-- **Com provedores de serviços**: Como empresas que nos ajudam com a manutenção do aplicativo, serviços de hospedagem, ou análise de dados. Esses prestadores de serviços têm acesso às suas informações, mas devem usá-las apenas para fornecer serviços em nosso nome e são obrigados a proteger suas informações.
-- **Para cumprir a lei**: Podemos divulgar suas informações quando exigido por lei ou em resposta a uma solicitação legal (por exemplo, uma intimação ou ordem judicial).
-- **Transferências internacionais de dados**: Se suas informações forem transferidas para fora do Brasil ou da União Europeia, garantimos que sejam tomadas as medidas adequadas para proteger seus dados, como contratos específicos ou outras garantias contratuais.
+- Com provedores de serviços: Como empresas que nos ajudam com a manutenção do aplicativo, serviços de hospedagem, ou análise de dados. Esses prestadores de serviços têm acesso às suas informações, mas devem usá-las apenas para fornecer serviços em nosso nome e são obrigados a proteger suas informações.
+- Para cumprir a lei: Podemos divulgar suas informações quando exigido por lei ou em resposta a uma solicitação legal (por exemplo, uma intimação ou ordem judicial).
+- Transferências internacionais de dados: Se suas informações forem transferidas para fora do Brasil ou da União Europeia, garantimos que sejam tomadas as medidas adequadas para proteger seus dados, como contratos específicos ou outras garantias contratuais.
 
 ## 6. Proteção das Informações
 
@@ -52,14 +49,14 @@ Adotamos medidas de segurança adequadas para proteger suas informações contra
 
 De acordo com a LGPD e o GDPR, você tem os seguintes direitos em relação às suas informações pessoais:
 
-- **Direito de Acesso**: Você pode solicitar uma cópia das suas informações pessoais que mantemos.
-- **Direito de Correção**: Se suas informações estiverem incorretas ou desatualizadas, você pode corrigi-las.
-- **Direito de Exclusão**: Você pode solicitar a exclusão das suas informações pessoais, sujeito a certos requisitos legais.
-- **Direito à Portabilidade**: Você pode solicitar a transferência de seus dados pessoais para outro fornecedor de serviços, em formato estruturado e de fácil leitura.
-- **Direito de Revogação de Consentimento**: Você pode retirar o consentimento a qualquer momento, sem afetar a legalidade do tratamento anterior à revogação.
-- **Direito à Limitação de Processamento**: Você pode solicitar que o processamento dos seus dados seja restringido em determinadas circunstâncias.
-- **Direito de Oposição**: Você pode se opor ao tratamento de seus dados pessoais, com base em interesses legítimos ou para fins de marketing direto.
-- **Direito de Reclamação**: Caso você considere que seus direitos estão sendo violados, pode apresentar uma reclamação à autoridade de proteção de dados, como a ANPD (Autoridade Nacional de Proteção de Dados) no Brasil, ou a ICO (Information Commissioner's Office) no Reino Unido, caso aplicável.
+- Direito de Acesso: Você pode solicitar uma cópia das suas informações pessoais que mantemos.
+- Direito de Correção: Se suas informações estiverem incorretas ou desatualizadas, você pode corrigi-las.
+- Direito de Exclusão: Você pode solicitar a exclusão das suas informações pessoais, sujeito a certos requisitos legais.
+- Direito à Portabilidade: Você pode solicitar a transferência de seus dados pessoais para outro fornecedor de serviços, em formato estruturado e de fácil leitura.
+- Direito de Revogação de Consentimento: Você pode retirar o consentimento a qualquer momento, sem afetar a legalidade do tratamento anterior à revogação.
+- Direito à Limitação de Processamento: Você pode solicitar que o processamento dos seus dados seja restringido em determinadas circunstâncias.
+- Direito de Oposição: Você pode se opor ao tratamento de seus dados pessoais, com base em interesses legítimos ou para fins de marketing direto.
+- Direito de Reclamação: Caso você considere que seus direitos estão sendo violados, pode apresentar uma reclamação à autoridade de proteção de dados, como a ANPD (Autoridade Nacional de Proteção de Dados) no Brasil, ou a ICO (Information Commissioner's Office) no Reino Unido, caso aplicável.
 
 ## 8. Retenção de Dados
 
@@ -77,7 +74,4 @@ Ao usar o Mente Ativa, você consente com a coleta e o uso de suas informações
 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento das suas informações, entre em contato conosco:
 
-- **E-mail**: daniel_redivo@hotmail.com
-```
-
-Esse formato em Markdown é adequado para visualização e formatação no GitHub e outras plataformas que suportam arquivos `.md`.
+- E-mail: daniel_redivo@hotmail.com
