@@ -19,10 +19,14 @@ O Mente Ativa pode coletar as seguintes informações:
 
 Utilizamos as informações coletadas para os seguintes fins:
 
-- Melhorar a experiência do usuário: Para fornecer uma experiência personalizada e aprimorar as funcionalidades do aplicativo.
-- Comunicação: Para enviar notificações, atualizações e responder a perguntas ou solicitações.
-- Análises: Para entender como os usuários interagem com o app e melhorar os nossos serviços (isso pode incluir o uso de ferramentas de análise como o Google Analytics ou Firebase).
-- Segurança e Suporte: Para monitorar e proteger a segurança do app, detectar fraudes ou abuso, e fornecer suporte ao cliente.
+ - Melhorar a experiência do usuário: Para fornecer uma experiência personalizada e aprimorar as funcionalidades do aplicativo.
+ - Comunicação: Para enviar notificações, atualizações e responder a perguntas ou solicitações.
+ - Análises: Para entender como os usuários interagem com o app e melhorar nossos serviços (isso pode incluir o uso de ferramentas de análise como o Google Analytics ou Firebase).
+ - Segurança e Suporte: Para monitorar e proteger a segurança do app, detectar fraudes ou abuso, e fornecer suporte ao cliente.
+ - Cookies: O Mente Ativa utiliza cookies e tecnologias semelhantes para melhorar a experiência do usuário e personalizar o conteúdo e anúncios. Cookies são pequenos arquivos de dados armazenados no seu dispositivo enquanto você utiliza o aplicativo. Esses cookies nos ajudam a:
+ - Melhorar a funcionalidade: Ao lembrar suas preferências e configurações.
+ - Analisar o desempenho: Para coletar informações sobre como você usa o aplicativo, ajudando-nos a melhorar seus recursos.
+ - Personalizar conteúdo e publicidade: Para exibir anúncios relevantes com base em suas interações com o app.
 
 ## 4. Base Legal para o Tratamento de Dados
 
