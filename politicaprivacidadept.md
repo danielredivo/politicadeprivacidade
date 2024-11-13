@@ -89,4 +89,5 @@ Ao usar o Mente Ativa, você consente com a coleta e o uso de suas informações
 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento das suas informações, entre em contato conosco:
 
+- Daniel Redivo
 - E-mail: daniel_redivo@hotmail.com
