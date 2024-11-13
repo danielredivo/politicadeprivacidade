@@ -1,6 +1,7 @@
 Política de Privacidade - Mente Ativa
 
 
+
 1. Introdução
 
 A sua privacidade é muito importante para nós. Esta Política de Privacidade descreve como coletamos, usamos, protegemos e compartilhamos as suas informações quando você usa o aplicativo Mente Ativa. Ao acessar ou utilizar nosso aplicativo, você concorda com as práticas descritas nesta política.
