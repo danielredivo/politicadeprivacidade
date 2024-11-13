@@ -78,6 +78,7 @@ Ao usar o Mente Ativa, você consente com a coleta e o uso de suas informações
 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento das suas informações, entre em contato conosco:
 
+- Daniel Redivo
 - E-mail: daniel_redivo@hotmail.com
 
 _____________________________________
@@ -164,6 +165,7 @@ By using Mente Ativa, you consent to the collection and use of your information 
 
 If you have any questions about this Privacy Policy or how your information is processed, please contact us:
 
+- Daniel Redivo
 - Email: daniel_redivo@hotmail.com
 
 _____________________________________
@@ -251,5 +253,6 @@ Al usar Mente Ativa, consientes la recopilación y el uso de tu información tal
 
 Si tienes alguna pregunta sobre esta Política de Privacidad o sobre el tratamiento de tu información, por favor contáctanos:
 
+- Daniel Redivo
 - Correo electrónico: daniel_redivo@hotmail.com
 
