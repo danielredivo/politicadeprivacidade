@@ -1,4 +1,6 @@
-# Solicitação de Exclusão de Conta - INFORME OS DADOS ABAIXO EM E-MAIL DIRETO
+# INFORME OS DADOS ABAIXO EM E-MAIL DIRETO E SUBSTITUIA PELAS SUAS INFORMAÇÕES
+
+# Solicitação de Exclusão de Conta
 
 Prezado(a) Daniel Redivo,
 
