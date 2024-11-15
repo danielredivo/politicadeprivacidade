@@ -14,7 +14,7 @@ Atenciosamente,
 
 ___________________
 
-#ENGLISH
+# ENGLISH
 
 # User Support 
 
@@ -22,9 +22,28 @@ If you need any type of assistance or have doubts, we are at your disposal to he
 
 Please contact us via the e-mail below: 
 
-**E-mail for Support:** [daniel_redivo@hotmail.com](mailto:daniel_redivo@hotmail.com) 
+**E-mail for Support:** 
+[daniel_redivo@hotmail.com](mailto:daniel_redivo@hotmail.com) 
 
 Please feel free to respond and resolve your request with us. greatest possible brevity.
 
 Sincerely, 
+**Daniel Redivo**
+
+____________________
+
+# ESPAÑOL
+
+# Soporte al usuario
+
+En caso de que sea preciso qué tipo de asistencia o tenha dúvidas, estou à disposição para ajudá-lo.
+
+Por favor, entre em contacto a través del correo electrónico abaixo:
+
+**Correo electrónico para soporte técnico:**
+[daniel_redivo@hotmail.com](correo a:daniel_redivo@hotmail.com)
+
+Farei o possível para responder y solucionar su solicitud con mayor brevedad posible.
+
+Atentamente,
 **Daniel Redivo**
