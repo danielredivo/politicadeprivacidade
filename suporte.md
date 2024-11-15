@@ -40,8 +40,7 @@ En caso de que sea preciso qué tipo de asistencia o tenha dúvidas, estou à di
 
 Por favor, entre em contacto a través del correo electrónico abaixo:
 
-**E-mail para soporte técnico:**
-
+**E-mail para soporte técnico:**  
 [daniel_redivo@hotmail.com](mailto:daniel_redivo@hotmail.com)
 
 Farei o possível para responder y solucionar su solicitud con mayor brevedad posible.
